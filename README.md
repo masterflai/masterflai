@@ -5,6 +5,7 @@ I build small, practical tools — mostly around **accessibility**, **Claude plu
 **Projects**
 
 - [**claude-plugins**](https://github.com/masterflai/claude-plugins) — Claude plugins, free under MIT. The first one, *E-Buch barrierefrei*, converts teaching material from PowerPoint, Word or PDF into accessible Word documents following the German E-Buch standard, so blind and visually impaired learners can work with a screen reader or braille display.
+- [**pmca-re-reloaded**](https://github.com/masterflai/pmca-re-reloaded) — a desktop toolkit for Sony cameras over USB, for Windows, macOS and Linux: camera info and shutter count, apps despite the closed PlayMemories store, firmware and the camera's hidden settings. A from-scratch Rust rewrite of Sony-PMCA-RE.
 
 **Interests:** accessibility · IT security · reverse engineering · history of photography · adapting vintage lenses · analog photography
 
@@ -22,6 +23,7 @@ Ich baue kleine, praktische Werkzeuge — vor allem rund um **Barrierefreiheit**
 **Projekte**
 
 - [**claude-plugins**](https://github.com/masterflai/claude-plugins) — Plugins für Claude, frei unter MIT. Das erste, *E-Buch barrierefrei*, überträgt Unterrichtsmaterial aus PowerPoint, Word oder PDF in barrierefreie Word-Dokumente nach E-Buch-Standard, damit blinde und sehbehinderte Lernende mit Screenreader oder Braillezeile damit arbeiten können.
+- [**pmca-re-reloaded**](https://github.com/masterflai/pmca-re-reloaded) — Desktop-Werkzeug für Sony-Kameras über USB, für Windows, macOS und Linux: Kamerainfos und Auslösezähler, Apps trotz geschlossenem PlayMemories-Store, Firmware und versteckte Kameraeinstellungen. Eine Neuentwicklung von Sony-PMCA-RE in Rust.
 
 **Interessen:** Barrierefreiheit · IT-Sicherheit · Reverse Engineering · Geschichte der Fotografie · Adaption historischer Objektive · analoge Fotografie
 
